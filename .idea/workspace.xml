@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3e6b6b0-67ad-4586-8745-d3b4121a60fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/malware-analysis-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/malware-analysis-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/backend/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/backend/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/backend/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/backend/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/.postcssrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.bin/glob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.bin/jiti" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.bin/yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/chunk-GWDAC2HU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/chunk-GWDAC2HU.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/framer-motion.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/framer-motion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/framer-motion.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/framer-motion.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/styled-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/styled-components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/styled-reset.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.vite/deps/styled-reset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@babel/runtime/helpers/esm/regeneratorRuntime.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@babel/runtime/helpers/esm/regeneratorRuntime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@babel/runtime/helpers/regeneratorRuntime.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@babel/runtime/helpers/regeneratorRuntime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@babel/runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@babel/runtime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@isaacs/cliui/node_modules/ansi-regex/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@isaacs/cliui/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@isaacs/cliui/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@isaacs/cliui/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@isaacs/cliui/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@isaacs/cliui/node_modules/strip-ansi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@isaacs/cliui/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@isaacs/cliui/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@isaacs/cliui/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@isaacs/cliui/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react-dom/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react-dom/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react-dom/experimental.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react-dom/experimental.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react-dom/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react-dom/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/global.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/global.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/global.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/global.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/v18/global.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/v18/global.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/v18/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/v18/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/v18/ts5.0/global.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/v18/ts5.0/global.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/v18/ts5.0/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/@types/react/ts5.0/v18/ts5.0/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/ansi-regex/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/ansi-regex/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/ansi-regex/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/ansi-regex/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/ansi-regex/license" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/ansi-regex/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/ansi-regex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/ansi-regex/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/ansi-regex/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/ansi-regex/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/brace-expansion/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/brace-expansion/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/brace-expansion/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/brace-expansion/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/brace-expansion/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/commander/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/commander/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/commander/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/commander/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/commander/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/commander/typings/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/es2015/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/es2015/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/es2015/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/es2015/text.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/emoji-regex/text.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/cjs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/cjs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/dom-mini.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/dom-mini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/es/value/use-spring.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/es/value/use-spring.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/framer-motion.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/framer-motion.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/framer-motion.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/framer-motion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/mini.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/mini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/size-rollup-animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/size-rollup-animate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/size-rollup-dom-animation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/size-rollup-dom-animation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/size-rollup-dom-max.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/size-rollup-dom-max.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/size-rollup-motion.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/size-rollup-motion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/size-rollup-waapi-animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/dist/size-rollup-waapi-animate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/CopyrightNotice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/modules/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/modules/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/tslib.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/tslib.es6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/tslib.es6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/tslib.es6.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/tslib.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/node_modules/tslib/tslib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/framer-motion/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob-parent/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob-parent/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob-parent/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob-parent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob-parent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob-parent/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob-parent/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob-parent/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob-parent/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/glob.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/glob.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/glob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/glob.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/has-magic.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/has-magic.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/has-magic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/has-magic.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/ignore.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/ignore.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/ignore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/ignore.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/index.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/pattern.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/pattern.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/pattern.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/pattern.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/processor.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/processor.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/processor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/walker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/walker.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/walker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/commonjs/walker.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/bin.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/bin.d.mts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/bin.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/bin.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/glob.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/glob.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/glob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/glob.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/has-magic.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/has-magic.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/has-magic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/has-magic.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/ignore.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/ignore.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/ignore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/ignore.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/index.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/pattern.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/pattern.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/pattern.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/pattern.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/processor.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/processor.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/processor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/walker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/walker.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/walker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/dist/esm/walker.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/glob/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/bin/jiti.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/dist/babel.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/dist/babel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/dist/jiti.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/dist/jiti.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/dist/plugins/babel-plugin-transform-import-meta.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/dist/plugins/import-meta-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/dist/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/dist/utils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/jiti/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/lilconfig/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/lilconfig/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/lilconfig/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/lilconfig/src/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/lilconfig/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/assert-valid-pattern.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/assert-valid-pattern.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/assert-valid-pattern.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/assert-valid-pattern.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/ast.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/ast.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/ast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/ast.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/brace-expressions.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/brace-expressions.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/brace-expressions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/brace-expressions.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/escape.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/escape.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/escape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/escape.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/index.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/unescape.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/unescape.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/unescape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/commonjs/unescape.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/assert-valid-pattern.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/assert-valid-pattern.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/assert-valid-pattern.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/assert-valid-pattern.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/ast.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/ast.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/ast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/ast.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/brace-expressions.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/brace-expressions.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/brace-expressions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/brace-expressions.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/escape.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/escape.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/escape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/escape.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/index.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/unescape.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/unescape.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/unescape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/dist/esm/unescape.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/minimatch/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/cjs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/cjs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/es/animation/JSAnimation.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/es/animation/JSAnimation.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/es/animation/NativeAnimation.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/es/animation/NativeAnimation.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/es/animation/utils/WithPromise.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/es/animation/utils/WithPromise.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/motion-dom.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/motion-dom.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/motion-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/dist/motion-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/motion-dom/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/object-hash/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/object-hash/dist/object_hash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/object-hash/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/object-hash/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/object-hash/readme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-js/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-js/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-js/objectifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-js/parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-js/process-result.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-js/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-load-config/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-load-config/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-load-config/node_modules/.bin/yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-load-config/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-load-config/src/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-load-config/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-load-config/src/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-load-config/src/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-load-config/src/req.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-nested/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-nested/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-nested/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-nested/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/postcss-nested/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/ansi-regex/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/LICENSE-MIT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/RGI_Emoji.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/RGI_Emoji.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/es2015/RGI_Emoji.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/es2015/RGI_Emoji.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/es2015/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/es2015/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/es2015/text.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/es2015/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/text.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/emoji-regex/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/strip-ansi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/string-width/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/strip-ansi/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/strip-ansi/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/strip-ansi/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/strip-ansi/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/strip-ansi/license" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/strip-ansi/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/strip-ansi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/strip-ansi/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/strip-ansi/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/strip-ansi/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/sucrase/node_modules/.bin/glob" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/sucrase/node_modules/.bin/glob" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tailwindcss/node_modules/.bin/jiti" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tailwindcss/node_modules/.bin/jiti" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tailwindcss/node_modules/glob-parent/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tailwindcss/node_modules/glob-parent/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tailwindcss/node_modules/glob-parent/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tailwindcss/node_modules/glob-parent/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/modules/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/modules/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/tslib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/tslib.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/tslib.es6.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/tslib.es6.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/tslib.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/tslib/tslib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/wrap-ansi/node_modules/ansi-regex/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/wrap-ansi/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/wrap-ansi/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/wrap-ansi/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/wrap-ansi/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/wrap-ansi/node_modules/strip-ansi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/wrap-ansi/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/wrap-ansi/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/wrap-ansi/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/wrap-ansi/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/bin.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/compose-collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/compose-doc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/compose-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/compose-scalar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/composer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/resolve-block-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/resolve-block-scalar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/resolve-block-seq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/resolve-end.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/resolve-flow-collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/resolve-flow-scalar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/resolve-props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/util-contains-newline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/util-empty-scalar-position.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/util-flow-indent-check.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/compose/util-map-includes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/doc/Document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/doc/anchors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/doc/applyReviver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/doc/createNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/doc/directives.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/nodes/Alias.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/nodes/Collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/nodes/Node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/nodes/Pair.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/nodes/Scalar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/nodes/YAMLMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/nodes/YAMLSeq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/nodes/addPairToJSMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/nodes/identity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/nodes/toJS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/parse/cst-scalar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/parse/cst-stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/parse/cst-visit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/parse/cst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/parse/lexer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/parse/line-counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/parse/parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/public-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/Schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/common/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/common/null.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/common/seq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/common/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/core/bool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/core/float.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/core/int.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/core/schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/json/schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/tags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/yaml-1.1/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/yaml-1.1/bool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/yaml-1.1/float.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/yaml-1.1/int.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/yaml-1.1/merge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/yaml-1.1/omap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/yaml-1.1/pairs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/yaml-1.1/schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/yaml-1.1/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/schema/yaml-1.1/timestamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/stringify/foldFlowLines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/stringify/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/stringify/stringifyCollection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/stringify/stringifyComment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/stringify/stringifyDocument.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/stringify/stringifyNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/stringify/stringifyPair.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/stringify/stringifyString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/dist/visit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/browser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/cli.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/cli.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/compose-collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/compose-collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/compose-doc.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/compose-doc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/compose-node.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/compose-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/compose-scalar.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/compose-scalar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/composer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/composer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-block-map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-block-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-block-scalar.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-block-scalar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-block-seq.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-block-seq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-end.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-end.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-flow-collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-flow-collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-flow-scalar.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-flow-scalar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-props.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/resolve-props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/util-contains-newline.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/util-contains-newline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/util-empty-scalar-position.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/util-empty-scalar-position.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/util-flow-indent-check.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/util-flow-indent-check.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/util-map-includes.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/compose/util-map-includes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/doc/Document.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/doc/Document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/doc/anchors.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/doc/anchors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/doc/applyReviver.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/doc/applyReviver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/doc/createNode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/doc/createNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/doc/directives.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/doc/directives.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/errors.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/log.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/Alias.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/Alias.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/Collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/Collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/Node.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/Node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/Pair.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/Pair.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/Scalar.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/Scalar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/YAMLMap.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/YAMLMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/YAMLSeq.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/YAMLSeq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/addPairToJSMap.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/addPairToJSMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/identity.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/identity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/toJS.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/nodes/toJS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/options.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/cst-scalar.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/cst-scalar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/cst-stringify.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/cst-stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/cst-visit.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/cst-visit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/cst.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/cst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/lexer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/lexer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/line-counter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/line-counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/parser.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/parse/parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/public-api.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/public-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/Schema.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/Schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/common/map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/common/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/common/null.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/common/null.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/common/seq.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/common/seq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/common/string.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/common/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/core/bool.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/core/bool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/core/float.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/core/float.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/core/int.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/core/int.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/core/schema.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/core/schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/json-schema.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/json/schema.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/json/schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/tags.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/tags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/binary.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/bool.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/bool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/float.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/float.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/int.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/int.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/merge.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/merge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/omap.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/omap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/pairs.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/pairs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/schema.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/set.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/timestamp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/schema/yaml-1.1/timestamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/foldFlowLines.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/foldFlowLines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringify.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyCollection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyCollection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyComment.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyComment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyDocument.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyDocument.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyNumber.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyPair.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyPair.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyString.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/stringify/stringifyString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/test-events.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/test-events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/util.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/visit.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/dist/visit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/node_modules/yaml/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/assets/images/eunji01.png" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/assets/images/eunji01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/assets/images/eunji02.png" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/assets/images/eunji02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/assets/images/mbp16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/assets/images/taeyun01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/aboutme/InterviewWrap2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/aboutme/InterviewWrap2.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/analysis/LogPanel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/analysis/LogPanel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/analysis/PredictionSummary.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/analysis/PredictionSummary.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/analysis/ResultPanel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/analysis/ResultPanel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/analysis/UploadBox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/analysis/UploadBox.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/Button.styled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/Button.styled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/CloseBtn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/CloseBtn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/FeedbackBtn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/FeedbackBtn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/GotoTopBtn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/GotoTopBtn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/MailSendBtn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/MailSendBtn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/ShowReviewBtn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/button/ShowReviewBtn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/cards/ArchitectureCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/cards/ArchitectureCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/cards/ReviewCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/cards/ReviewCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/footer/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/main/TextWrap.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/main/TextWrap.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/quickBtns/QuickBtns.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/components/quickBtns/QuickBtns.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/data/content/ModelData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/data/content/ModelData.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/data/content/SummaryData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/data/content/SummaryData.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/data/content/reviewData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/data/content/reviewData.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/data/introData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/data/introData.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/data/introData2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/data/introData2.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/hooks/useModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/hooks/useModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/Contents.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/Contents.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/aboutMe/AboutMe2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/aboutMe/AboutMe2.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/analyzer/Analyzer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/analyzer/Analyzer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/architecture/Architecture.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/architecture/Architecture.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/hero/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/hero/Hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/main/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/main/Main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/model/Model.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/model/Model.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/summary/Summary.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/content/summary/Summary.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/detail/ReviewDetail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/detail/ReviewDetail.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/detail/ReviewDetail2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/pages/detail/ReviewDetail2.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/store/overlay-slice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/store/overlay-slice.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/utils/constant/constant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/src/utils/constant/constant.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malware-analysis-service/frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/frontend/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/dev.taeyun.next/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="32K8ZzofE513g2l0RsoApv4iSAG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/taeyunryu/Documents/dev.taeyun&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/taeyunryu/Documents/dev.taeyun/dev.taeyun.next/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3e6b6b0-67ad-4586-8745-d3b4121a60fd" name="Changes" comment="" />
+      <created>1757157962514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757157962514</updated>
+      <workItem from="1757157963614" duration="68388000" />
+      <workItem from="1757912307543" duration="6233000" />
+      <workItem from="1758101698763" duration="274000" />
+      <workItem from="1758110646529" duration="1001000" />
+      <workItem from="1758507955110" duration="10867000" />
+      <workItem from="1758806837775" duration="5993000" />
+      <workItem from="1759114654984" duration="10822000" />
+      <workItem from="1759148568489" duration="6708000" />
+      <workItem from="1759998990700" duration="13787000" />
+      <workItem from="1760248046698" duration="33000" />
+      <workItem from="1760506596793" duration="4954000" />
+      <workItem from="1760925203987" duration="3437000" />
+      <workItem from="1762089249943" duration="5257000" />
+      <workItem from="1762219070661" duration="2648000" />
+      <workItem from="1762269029873" duration="9061000" />
+      <workItem from="1762928612353" duration="8282000" />
+      <workItem from="1763698345183" duration="3705000" />
+      <workItem from="1764220534244" duration="11937000" />
+      <workItem from="1764341301352" duration="3848000" />
+      <workItem from="1764346942401" duration="2242000" />
+      <workItem from="1764396369719" duration="972000" />
+      <workItem from="1764397464211" duration="24139000" />
+      <workItem from="1764592875288" duration="3112000" />
+      <workItem from="1764685495385" duration="20283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/dev.taeyun.next/components/Intro/Information.tsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/dev.taeyun.next/components/Global/Navigation.tsx</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/dev.taeyun.next/components/Global/Footer.tsx</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
