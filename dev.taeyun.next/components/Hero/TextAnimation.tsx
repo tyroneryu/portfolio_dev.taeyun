@@ -128,7 +128,7 @@ const Container = styled.div<{ isShown: boolean }>`
             top: 50%;
             left: 50%;
             
-            transform: translate(-50%, -100%);
+            transform: translate(-50%, -115%);
             
             font-size: 13vw;
             line-height: 1;
@@ -152,7 +152,7 @@ const Container = styled.div<{ isShown: boolean }>`
             right: auto;
             bottom: auto;
             
-            transform: translate(-50%, 0%);
+            transform: translate(-50%, 15%);
             
             font-size: 13vw;
             line-height: 1;
