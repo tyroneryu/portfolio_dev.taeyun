@@ -11,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/dev.taeyun.next/components/Intro/Information.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/components/Intro/Information.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev.taeyun.next/data/skills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/data/skills.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev.taeyun.next/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev.taeyun.next/styles/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/styles/theme.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/malware-analysis-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/malware-analysis-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/workspace.xml" afterDir="false" />

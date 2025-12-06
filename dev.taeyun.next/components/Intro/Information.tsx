@@ -75,7 +75,8 @@ const Container = styled.div<{ isHover: boolean }>`
   box-sizing: border-box;
   overflow-x: hidden;
 	
-  ${media.mobile} {
+  // ${media.mobile} {
+  @media screen and (max-width: 768px) {	
     flex-direction: column;
 	padding: 3rem 1.5rem;  
   }
@@ -166,7 +167,9 @@ const Container = styled.div<{ isHover: boolean }>`
     align-items: center;
     justify-content: center;
     border: 0.2rem solid ${({ theme }) => theme.color.blue};
-    ${media.mobile} {
+	  
+    // ${media.mobile} {
+	@media screen and (max-width: 768px) {  
       margin-top: 3rem;
       margin-left: 0;
 	  width: 100%;
@@ -194,13 +197,15 @@ const Container = styled.div<{ isHover: boolean }>`
       :hover {
         background-color: ${({ theme }) => theme.color.blue};
       }
-	  ${media.mobile} {
+	  	
+	  // ${media.mobile} {
+	  @media screen and (max-width: 768px) {	
 		  font-size: 0.9rem;
 		  border-width: 2px;
 		  padding: 0.8rem 0.5rem;
 		  
-		  white-space: normal;
-		  word-break: break-all;
+		  white-space: normal !important;
+		  word-break: break-all !important;
 		  height: auto;
 		  line-height: 1.4;
 	  }	
