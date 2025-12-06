@@ -123,16 +123,20 @@ const Container = styled.div<{ isShown: boolean }>`
 //   }
 //
         ${media.mobile} {
-            font-size: 12vw;
-            line-height: 1.2;
-            white-space: nowrap; 
-            top: 50%; 
+            position: absolute;
+            
+            top: 50%;
             left: 50%;
-            transform: translate(-50%, -250%);
-            right: auto;
-            bottom: auto;
-            text-align: center;
+            
+            transform: translate(-50%, -100%);
+            
+            font-size: 13vw;
+            line-height: 1;
             width: 100%;
+            text-align: center;
+            white-space: nowrap;
+            margin: 0;
+            padding-bottom: 10px;
         }
         }
 
@@ -142,14 +146,20 @@ const Container = styled.div<{ isShown: boolean }>`
             right: 0;
         ${media.mobile} {
             position: absolute;
-            font-size: 10vw;
-            right: auto;
+            
             top: 50%;
-            bottom: 25vh;
             left: 50%;
-            transform: translate(-50%, 150%);
+            right: auto;
+            bottom: auto;
+            
+            transform: translate(-50%, 0%);
+            
+            font-size: 13vw;
+            line-height: 1;
+            width: 100%;
             text-align: center;
-            width: 100%;   
+            white-space: nowrap;
+            padding-top: 10px;
         }
         }
         `;
