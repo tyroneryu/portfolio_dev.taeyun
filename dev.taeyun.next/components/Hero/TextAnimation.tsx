@@ -123,10 +123,14 @@ const Container = styled.div<{ isShown: boolean }>`
 //   }
 //
         ${media.mobile} {
-            font-size: 4rem;
+            font-size: 12vw;
             line-height: 1.2;
             white-space: nowrap; 
-            top: 35vh; 
+            top: 25vh; 
+            left: 50%;
+            transform: translateX(-50%);
+            text-align: center;
+            width: 100%;
         }
         }
 
@@ -134,6 +138,16 @@ const Container = styled.div<{ isShown: boolean }>`
             position: absolute;
             left: auto;
             right: 0;
+        ${media.mobile} {
+            font-size: 10vw;
+            right: auto;
+            top: auto;
+            bottom: 25vh;
+            left: 50%;
+            transform: translateX(-50%);
+            text-align: center;
+            width: 100%;   
+        }
         }
         `;
 
