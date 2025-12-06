@@ -70,9 +70,14 @@ const Container = styled.div<{ isHover: boolean }>`
   padding-top: 3rem;
   position: relative;
   background-color: ${({ theme }) => theme.color.white};
+  
+  width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
+	
   ${media.mobile} {
     flex-direction: column;
-	padding: 3rem 1rem;  
+	padding: 3rem 1.5rem;  
   }
   .memoji {
     cursor: pointer;
@@ -165,7 +170,7 @@ const Container = styled.div<{ isHover: boolean }>`
       margin-top: 3rem;
       margin-left: 0;
 	  width: 100%;
-	  padding: 2rem;	
+	  padding: 2rem 1rem;	
     }
 
     &__button {
@@ -180,6 +185,8 @@ const Container = styled.div<{ isHover: boolean }>`
 	  white-space: nowrap;
 	  overflow: hidden;
 	  text-overflow: ellipsis;	
+	  max-width: 100%;
+	  box-sizing: border-box;	
       :not(:first-child) {
         margin-top: 0.6rem;
       }
@@ -187,8 +194,8 @@ const Container = styled.div<{ isHover: boolean }>`
         background-color: ${({ theme }) => theme.color.blue};
       }
 	  ${media.mobile} {
-		  font-size: 0.9rem;
-		  padding: 0.8rem 1rem;
+		  font-size: 0.8rem;
+		  padding: 0.8rem 0.5rem;
 	  }	
     }
   }
