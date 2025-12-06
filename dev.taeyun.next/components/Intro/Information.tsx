@@ -170,9 +170,8 @@ const Container = styled.div<{ isHover: boolean }>`
       margin-top: 3rem;
       margin-left: 0;
 	  width: 100%;
-	  max-width: 100%;
 		
-	  padding: 1.5rem 1rem;	
+	  padding: 2rem 1rem;	
     }
 
     &__button {
@@ -196,9 +195,14 @@ const Container = styled.div<{ isHover: boolean }>`
         background-color: ${({ theme }) => theme.color.blue};
       }
 	  ${media.mobile} {
-		  font-size: clamp(0.7rem, 4vw, 0.9rem);
+		  font-size: 0.9rem;
 		  border-width: 2px;
 		  padding: 0.8rem 0.5rem;
+		  
+		  white-space: normal;
+		  word-break: break-all;
+		  height: auto;
+		  line-height: 1.4;
 	  }	
     }
   }
