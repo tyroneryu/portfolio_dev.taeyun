@@ -91,6 +91,7 @@ const Container = styled.div<{ isShown: boolean }>`
   display: flex;
   align-items: center;
   opacity: ${({ isShown }) => (isShown ? 1 : 0)};
+  transition: opacity 0.3s ease;  
   .text {
     top: 25vh;
     width: 100%;
@@ -107,20 +108,34 @@ const Container = styled.div<{ isShown: boolean }>`
         -webkit-text-stroke: 0.02em ${({ theme }) => theme.color.blue};
       }
     }
-    ${media.mobile} {
-      white-space: pre-line;
-      line-height: 10rem;
-    }
-  }
-  .second {
-    position: absolute;
-    left: auto;
-    right: 0;
-    ${media.mobile} {
-      font-size: 6rem;
-    }
-  }
-`;
+//     ${media.mobile} {
+//       white-space: pre-line;
+//       line-height: 10rem;
+//     }
+//   }
+//   .second {
+//     position: absolute;
+//     left: auto;
+//     right: 0;
+//     ${media.mobile} {
+//       font-size: 6rem;
+//     }
+//   }
+//
+        ${media.mobile} {
+            font-size: 4rem;
+            line-height: 1.2;
+            white-space: nowrap; 
+            top: 35vh; 
+        }
+        }
+
+        .second {
+            position: absolute;
+            left: auto;
+            right: 0;
+        }
+        `;
 
 const Circle = styled.div`
   position: relative;

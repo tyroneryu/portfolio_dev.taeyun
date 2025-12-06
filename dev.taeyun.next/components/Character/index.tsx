@@ -9,12 +9,12 @@ const strongList = [
 	"Typescript",
 	"Javascript",
 	"GraphQL",
-	"Apollo",
-	"Recoil",
-	"SCSS",
-	"Storybook",
-	"Styled",
-	"Emotion",
+	"FastAPI",
+	"Node.js",
+	"AWS",
+	"Kurbenetes",
+	"Terraform",
+	"Github Actions",
 ];
 
 const Character = () => {

@@ -36,7 +36,7 @@ export const skills = [
 export const careers = [
   {
     title: "NIS 국가정보원",
-    date: "2025.03.17 ~ 2025.10.31",
+    date: "2025.09.01 ~ 2025.11.28",
     about: "국가사이버안보센터 인턴"
 
   },
@@ -50,7 +50,7 @@ export const careers = [
 export const activities = [
   {
     title: "DefCamp Hacking Village (Romania)",
-    date: "2024.12.21",
+    date: "2024.12.19 ~ 2024.12.21",
     about: "최우수상 수상"
   },
   {
@@ -61,17 +61,17 @@ export const activities = [
   {
     title: "HI-ARC",
     date: "2024.03 ~ 2025.02",
-    about: "연세대학교 Full Stack 개발 학회 - 학회원",
+    about: "연세대학교 Full Stack 개발 학회 - OB",
   },
   {
     title: "GDSC",
     date: "2024.03 ~ 2025.02",
-    about: "연세대학교 Google 개발 학회 - 학회원",
+    about: "연세대학교 Google 개발 학회 - OB",
   },
   {
     title: "IHHH",
     date: "2024.03 ~ 2025.02",
-    about: "연세대학교 정보보안 학회 - OB",
+    about: "연세대학교 정보보안 학회 - 부학회장",
   },
   {
     title: "Wrtn Prompthon",
@@ -94,8 +94,8 @@ export const projects = [
       "CAPA",
       "Docker",
     ],
-    website:
-        "https://www.notion.so/danmin20/NAVER-Glace-PPT-8b11aee3987e4742be61ce92a1769385",
+    github: "https://github.com/tyroneryu/malware-analysis-service",
+    website: "",
     about: "CAPA rule을 활용한 악성코드 탐지 모델 개발",
     contents: [
       "CAPA rule을 활용하여 악성코드 50만개 전처리",
@@ -125,11 +125,11 @@ export const projects = [
     ],
   },
   {
-    title: "dev.next.com",
+    title: "dev.next.taeyunryu",
     date: "2025.09 ~ 2025.10 (1명)",
     skills: ["React", "Next.js", "Typescript", "Sass"],
-    github: "https://github.com/spaceone-dev/project-site",
-    website: "https://www.spaceone.org/",
+    github: "https://github.com/tyroneryu/dev.taeyun",
+    website: "",
     about: "개인 블로그 사이트 제작",
     contents: [
       "next 기반의 SSR 웹 애플리케이션 구축",
@@ -140,7 +140,7 @@ export const projects = [
     title: "TriggerForge",
     date: "2025.09 ~ 2025.10 (1명)",
     skills: ["Terraform", "AWS SAM", "Ansible", "GitHub Actions", "Docker", "LocalStack"],
-    github: "https://github.com/your-id/TriggerForge",
+    github: "https://github.com/tyroneryu/trigger_forge",
     website: "",
     about:
         "Terraform, AWS SAM, Ansible을 활용한 Event-Driven 인프라 구축 및 CI/CD 파이프라인 자동화 프로젝트",
@@ -157,7 +157,7 @@ export const projects = [
     title: "GitKubeOps",
     date: "2025.06 ~ 2025.08 (1명)",
     skills: ["Kubernetes", "Argo CD", "Helm", "GitHub Actions", "Docker", "Python (Flask)"],
-    github: "https://github.com/your-id/GitKubeOps",
+    github: "https://github.com/tyroneryu/GitKubeOps",
     website: "",
     about:
         "Docker, Helm, Argo CD를 활용한 Flask App의 Kubernetes GitOps 배포 및 CI/CD 파이프라인 구축 프로젝트",
@@ -173,8 +173,8 @@ export const projects = [
     title: "Baekjoon Algorithm Prolem set",
     date: "2024.02 ~ 2025.12 (1명)",
     skills: ["C++", "Python"],
-    github: "https://github.com/depromeet/8th-final-front-6team",
-    website: "https://abocado.netlify.app/",
+    github: "https://github.com/tyroneryu/Algorithm_ps",
+    website: "https://solved.ac/profile/tyroneryu",
     about: "백준 웹사이트에서 알고리즘 문제 풀이",
     contents: [
       "BaekjoonHub라는 Extension을 이용해 풀이했던 모든 알고리즘 문제와 해답 Github에 저장",
@@ -186,7 +186,7 @@ export const projects = [
     title: "Shared Bike System Implementation",
     date: "2024.03 ~ 2024.06 (4명)",
     skills: ["C++", "Object-Oriented Programming", "ECB Pattern", "File I/O", "System Architecture"],
-    github: "https://github.com/your-id/repository",
+    github: "https://github.com/tyroneryu/HONGIK_SE_HW02",
     website: "",
     about:
         "소프트웨어 공학을 기반으로 팀 단위의 설계를 거쳐, C++로 실제 작동하는 공유 자전거 시스템을 구현한 프로젝트",

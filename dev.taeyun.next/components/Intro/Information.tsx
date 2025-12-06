@@ -8,7 +8,7 @@ import { media } from "../../styles/theme";
 const Information = () => {
 	const [isHover, setIsHover] = useState(false);
 	return (
-		<Conatiner className="flex" {...{ isHover }}>
+		<Container className="flex" {...{ isHover }}>
 			<div
 				className="memoji"
 				onMouseEnter={() => setIsHover(true)}
@@ -24,7 +24,7 @@ const Information = () => {
 					{`
             유태윤
             1998.09.19
-            HONGIK Univ.
+            Yonsei Univ.
             `}
 				</div>
 			</div>
@@ -51,27 +51,36 @@ const Information = () => {
 					className="info__button"
 					onClick={() =>
 						window.open(
-							"https://www.notion.so/danmin20/Resume-7c32047349064df5b0de46f325550e22"
+							"https://www.notion.so/tyroneryu/Resume-7c32047349064df5b0de46f325550e22"
 						)
 					}
 				>
 					RESUME
 				</div>
 			</div>
-		</Conatiner>
+		</Container>
 	);
 };
 
-const Conatiner = styled.div<{ isHover: boolean }>`
-  padding: 5rem;
+const Container = styled.div<{ isHover: boolean }>`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	
+  padding-top: 3rem;
   position: relative;
   background-color: ${({ theme }) => theme.color.white};
   ${media.mobile} {
     flex-direction: column;
+	padding: 3rem 1rem;  
   }
   .memoji {
     cursor: pointer;
     position: relative;
+	width: 13rem;
+	height: 13rem;
+	flex-shrink: 0;
+	  
     &__box {
       position: absolute;
       background-color: ${({ theme }) => theme.color.gray};
@@ -80,18 +89,23 @@ const Conatiner = styled.div<{ isHover: boolean }>`
       font-size: 1.5rem;
       border-radius: 2rem;
       color: ${({ theme }) => theme.color.white};
-      left: -1rem;
+      left: -2rem;
       top: 1.8rem;
       transform: rotate(-10deg);
       border: 0.2rem solid white;
+	  white-space: nowrap;	
     } 
 	  &__img {
 		  position: absolute;
 		  width: 14rem;
 		  height: auto;
-		  left: 1rem; 
+		  left: 0.5rem; 
 		  top: 2rem;
 	  }
+	  
+	  .pc-only { display: block; }
+	  .mobile-only { display: none; }
+	  
     &__cursor {
       position: absolute;
       left: 1.2rem;
@@ -101,8 +115,8 @@ const Conatiner = styled.div<{ isHover: boolean }>`
       animation: fade 1s linear infinite;
     }
     &__circle {
-      width: 13rem;
-      height: 13rem;
+      width: 100%;
+      height: 100%;
       border-radius: 50%;
       background-color: ${({ theme }) => theme.color.blue};
     }
@@ -111,8 +125,8 @@ const Conatiner = styled.div<{ isHover: boolean }>`
       transition: 0.3s;
       position: absolute;
       top: 0;
-      width: 13rem;
-      height: 13rem;
+      width: 100%;
+      height: 100%;
       border-radius: 50%;
       background-color: ${({ theme }) => theme.color.gray};
     }
@@ -126,16 +140,20 @@ const Conatiner = styled.div<{ isHover: boolean }>`
       white-space: pre-line;
       text-align: center;
       line-height: 2rem;
-      width: 13rem;
-      height: 13rem;
+      width: 100%;
+      height: 100%;
+	  display: flex;
+      align-items: center;
+	  justify-content: center;
+	  z-index: 7;	
     }
   }
   .info {
     border-radius: 2.5rem;
-    padding: 4rem;
+    padding: 3rem;
     margin-left: 5rem;
     box-sizing: border-box;
-    height: 13rem;
+    height: auto;
     display: flex;
     font-weight: 600;
     letter-spacing: 0.1rem;
@@ -144,8 +162,10 @@ const Conatiner = styled.div<{ isHover: boolean }>`
     justify-content: center;
     border: 0.2rem solid ${({ theme }) => theme.color.blue};
     ${media.mobile} {
-      margin-top: 5rem;
+      margin-top: 3rem;
       margin-left: 0;
+	  width: 100%;
+	  padding: 2rem;	
     }
 
     &__button {
@@ -156,12 +176,20 @@ const Conatiner = styled.div<{ isHover: boolean }>`
       border: 0.5rem solid ${({ theme }) => theme.color.white};
       background-color: ${({ theme }) => theme.color.gray};
       color: ${({ theme }) => theme.color.white};
+	  text-align: center;
+	  white-space: nowrap;
+	  overflow: hidden;
+	  text-overflow: ellipsis;	
       :not(:first-child) {
         margin-top: 0.6rem;
       }
       :hover {
         background-color: ${({ theme }) => theme.color.blue};
       }
+	  ${media.mobile} {
+		  font-size: 0.9rem;
+		  padding: 0.8rem 1rem;
+	  }	
     }
   }
 `;
