@@ -26,7 +26,7 @@ export const skills = [
   {
     title: "AI/ML",
     contents: [
-        "XGBoost 및 Deep Learning 모델을 활용하여 50만 개 이상의 데이터를 학습시킨 지능형 악성코드 탐지 모델을 개발했습니다.",
+        "XGBoost 및 TensorFlow를 활용하여 50만 개 이상의 데이터를 학습시킨 지능형 악성코드 탐지 모델을 개발했습니다.",
         "Pandas, NumPy를 활용한 대규모 보안 데이터 전처리 및 특징 추출(Feature Engineering)에 능숙합니다.",
         "AWS Sagemaker 및 CodePipeline을 연동하여, 지속적인 모델 학습 및 배포가 가능한 MLOps 자동화 환경을 구축했습니다.",
     ]
@@ -35,22 +35,22 @@ export const skills = [
 
 export const careers = [
   {
-    title: "NIS 국가정보원",
-    date: "2025.09.01 ~ 2025.11.28",
-    about: "국가사이버안보센터 인턴"
+    title: "경기관광공사",
+    date: "2025.10.21 ~ 2025.10.27",
+    about: "ITB Asia Singapore 2024 경기도 부스 특별 인턴"
 
   },
   {
-    title: "Amazon Web Services Korea",
-    date: "2024.06.27 ~ 2024.09.27",
-    about: "SA(Solution Architect) 인턴",
+    title: "(주)프리미엄패스인터내셔널",
+    date: "2024.07.15 ~ 2024.08.30",
+    about: "MICE사업부 인턴",
   },
 ];
 
 export const activities = [
   {
-    title: "DefCamp Hacking Village (Romania)",
-    date: "2024.12.19 ~ 2024.12.21",
+    title: "OSCO MICE 행사 기획 공모전",
+    date: "2024.12.23",
     about: "최우수상 수상"
   },
   {
@@ -59,19 +59,9 @@ export const activities = [
     about: "경기도, 경기관광공사, 한국MICE협회가 진행한 MICE 인재 양성 교육",
   },
   {
-    title: "HI-ARC",
-    date: "2024.03 ~ 2025.02",
-    about: "연세대학교 Full Stack 개발 학회 - OB",
-  },
-  {
-    title: "GDSC",
-    date: "2024.03 ~ 2025.02",
-    about: "연세대학교 Google 개발 학회 - OB",
-  },
-  {
     title: "IHHH",
     date: "2024.03 ~ 2025.02",
-    about: "연세대학교 정보보안 학회 - 부학회장",
+    about: "연세대학교 정보보안 학회 - 학회원",
   },
   {
     title: "Wrtn Prompthon",
@@ -112,8 +102,8 @@ export const projects = [
     title: "taeyun-ryu.com",
     date: "2025.07 ~ 2025.11 (1명)",
     skills: ["React", "Next.js", "Typescript", "PostCSS"],
-    github: "https://github.com/spaceone-dev/spaceone-design-system",
-    website: "https://storybook.developer.spaceone.dev/",
+    github: "https://github.com/portfolio_dev.taeyun",
+    website: "https://taeyunryu.vercel.app",
     about:
         "개인 포트폴리오 웹사이트 제작",
     contents: [

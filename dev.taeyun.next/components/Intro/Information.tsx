@@ -24,7 +24,7 @@ const Information = () => {
 					{`
             유태윤
             1998.09.19
-            Yonsei Univ.
+            Hongik Univ.
             `}
 				</div>
 			</div>
