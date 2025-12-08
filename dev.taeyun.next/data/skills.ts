@@ -75,7 +75,7 @@ export const projects = [
     title: "taeyun-ryu.com",
     date: "2025.07 ~ 2025.11 (1명)",
     skills: ["React", "Next.js", "Typescript", "PostCSS"],
-    github: "https://github.com/portfolio_dev.taeyun",
+    github: "https://github.com/tyorneryu/portfolio_dev.taeyun",
     website: "https://taeyunryu.vercel.app",
     about:
         "개인 포트폴리오 웹사이트 제작",
@@ -102,7 +102,7 @@ export const projects = [
     title: "GitKubeOps",
     date: "2025.06 ~ 2025.08 (1명)",
     skills: ["Kubernetes", "Argo CD", "Helm", "GitHub Actions", "Docker", "Python (Flask)"],
-    github: "https://github.com/tyroneryu/GitKubeOps",
+    github: "https://github.com/tyroneryu/gitkubeops",
     website: "",
     about:
         "Docker, Helm, Argo CD를 활용한 Flask App의 Kubernetes GitOps 배포 및 CI/CD 파이프라인 구축 프로젝트",
