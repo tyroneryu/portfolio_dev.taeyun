@@ -36,7 +36,7 @@ export const skills = [
 export const careers = [
   {
     title: "경기관광공사",
-    date: "2025.10.21 ~ 2025.10.27",
+    date: "2025.10.18 ~ 2025.10.27",
     about: "ITB Asia Singapore 2024 경기도 부스 특별 인턴"
 
   },
@@ -51,7 +51,7 @@ export const activities = [
   {
     title: "OSCO MICE 행사 기획 공모전",
     date: "2024.12.23",
-    about: "최우수상 수상"
+    about: "충북도지사상 수상"
   },
   {
     title: "경기MICE아카데미",
@@ -61,7 +61,7 @@ export const activities = [
   {
     title: "IHHH",
     date: "2024.03 ~ 2025.02",
-    about: "연세대학교 정보보안 학회 - 학회원",
+    about: "홍익대학교 정보보안 학회 - 학회원",
   },
   {
     title: "Wrtn Prompthon",
@@ -72,33 +72,6 @@ export const activities = [
 
 export const projects = [
   {
-    title: "Malware Analysis DL Model",
-    date: "2024.08 ~ 2025.06 (2명)",
-    skills: [
-      "React",
-      "Typescript",
-      "Next.js",
-      "AWS",
-      "Python",
-      "FastAPI",
-      "CAPA",
-      "Docker",
-    ],
-    github: "https://github.com/tyroneryu/malware-analysis-service",
-    website: "",
-    about: "CAPA rule을 활용한 악성코드 탐지 모델 개발",
-    contents: [
-      "CAPA rule을 활용하여 악성코드 50만개 전처리",
-      "전처리 된 csv 파일로 ML 학습(최종 XGBoost 선정)",
-      "학습된 모델을 하이퍼 파라미터 튜닝",
-      "DL 학습으로 최종 모델 생성(AWS Sagemaker)",
-      "FastAPI로 백엔드 구성",
-      "Next.js 기반으로 프론트엔드 구성",
-      "Docker container로 AWS 서버에 최종 배포",
-      "AWS CodeCommit, Pipeline, CodeBuild 를 통한 완전 자동화(신규 악성코드 자동 학습 파이프라인)"
-    ],
-  },
-  {
     title: "taeyun-ryu.com",
     date: "2025.07 ~ 2025.11 (1명)",
     skills: ["React", "Next.js", "Typescript", "PostCSS"],
@@ -107,11 +80,10 @@ export const projects = [
     about:
         "개인 포트폴리오 웹사이트 제작",
     contents: [
-      "기존 option api에서 Vue3 composition api으로 마이그레이션",
-      "기존 atomic 시스템 기반의 스토리북 구조에서 컴포넌트 종류에 따른 구조로 변환",
-      "컴포넌트 css 수정 및 기능 추가 개발",
-      "typescript 마이그레이션",
-      "storybook mdx 도입",
+      "Next.js 및 TypeScript 도입으로 타입 안전성을 보장하는 컴포넌트 기반 아키텍처 설계 및 반응형 UI 구현",
+      "gray-matter와 markdown-to-jsx를 활용해 마크다운 파일을 정적 페이지로 변환하는 커스텀 블로그 엔진 개발",
+      "GSAP, AOS, Lottie 라이브러리를 활용한 스크롤 인터랙션 및 동적 애니메이션 구현으로 사용자 몰입감 증대",
+      "next-sitemap을 통한 SEO 최적화 및 Webpack 커스터마이징, Bundle Analyzer 도입으로 빌드 사이즈 경량화",
     ],
   },
   {
@@ -124,6 +96,22 @@ export const projects = [
     contents: [
       "next 기반의 SSR 웹 애플리케이션 구축",
       "BEM 방법론을 적용하여 styled components 사용",
+    ],
+  },
+  {
+    title: "GitKubeOps",
+    date: "2025.06 ~ 2025.08 (1명)",
+    skills: ["Kubernetes", "Argo CD", "Helm", "GitHub Actions", "Docker", "Python (Flask)"],
+    github: "https://github.com/tyroneryu/GitKubeOps",
+    website: "",
+    about:
+        "Docker, Helm, Argo CD를 활용한 Flask App의 Kubernetes GitOps 배포 및 CI/CD 파이프라인 구축 프로젝트",
+    contents: [
+      "Python Flask 애플리케이션을 Docker 컨테이너로 패키징하고 GHCR(GitHub Container Registry)과 연동하여 이미지 관리 효율화",
+      "Helm Chart를 직접 설계하여 Deployment, Service, HPA 등 복잡한 Kubernetes 리소스를 모듈화하고 버전 관리(IaC) 구현",
+      "GitHub Actions를 활용한 CI 파이프라인을 구축하여, 코드 변경 시 Docker 이미지 빌드 및 푸시 과정을 자동화",
+      "Argo CD를 도입하여 Git 리포지토리의 상태를 Kubernetes 클러스터에 자동으로 동기화하는 GitOps 기반의 CD 워크플로우 완성",
+      "Horizontal Pod Autoscaler(HPA)를 구성하여 트래픽 부하에 따라 Pod가 자동으로 확장 및 축소되는 오토스케일링 환경 마련"
     ],
   },
   {
@@ -144,32 +132,21 @@ export const projects = [
     ],
   },
   {
-    title: "GitKubeOps",
-    date: "2025.06 ~ 2025.08 (1명)",
-    skills: ["Kubernetes", "Argo CD", "Helm", "GitHub Actions", "Docker", "Python (Flask)"],
-    github: "https://github.com/tyroneryu/GitKubeOps",
+    title: "Malware Analysis DL Model",
+    date: "2024.08 ~ 2025.06 (2명)",
+    skills: ["React", "Typescript", "Next.js", "AWS", "Python", "FastAPI", "CAPA", "Docker",],
+    github: "https://github.com/tyroneryu/malware-analysis-service",
     website: "",
-    about:
-        "Docker, Helm, Argo CD를 활용한 Flask App의 Kubernetes GitOps 배포 및 CI/CD 파이프라인 구축 프로젝트",
+    about: "CAPA rule을 활용한 악성코드 탐지 모델 개발",
     contents: [
-      "Python Flask 애플리케이션을 Docker 컨테이너로 패키징하고 GHCR(GitHub Container Registry)과 연동하여 이미지 관리 효율화",
-      "Helm Chart를 직접 설계하여 Deployment, Service, HPA 등 복잡한 Kubernetes 리소스를 모듈화하고 버전 관리(IaC) 구현",
-      "GitHub Actions를 활용한 CI 파이프라인을 구축하여, 코드 변경 시 Docker 이미지 빌드 및 푸시 과정을 자동화",
-      "Argo CD를 도입하여 Git 리포지토리의 상태를 Kubernetes 클러스터에 자동으로 동기화하는 GitOps 기반의 CD 워크플로우 완성",
-      "Horizontal Pod Autoscaler(HPA)를 구성하여 트래픽 부하에 따라 Pod가 자동으로 확장 및 축소되는 오토스케일링 환경 마련"
-    ],
-  },
-  {
-    title: "Baekjoon Algorithm Prolem set",
-    date: "2024.02 ~ 2025.12 (1명)",
-    skills: ["C++", "Python"],
-    github: "https://github.com/tyroneryu/Algorithm_ps",
-    website: "https://solved.ac/profile/tyroneryu",
-    about: "백준 웹사이트에서 알고리즘 문제 풀이",
-    contents: [
-      "BaekjoonHub라는 Extension을 이용해 풀이했던 모든 알고리즘 문제와 해답 Github에 저장",
-      "현재 풀이한 문제 수: 199",
-      "Tier: Gold IV"
+      "CAPA rule을 활용하여 악성코드 50만개 전처리",
+      "전처리 된 csv 파일로 ML 학습(최종 XGBoost 선정)",
+      "학습된 모델을 하이퍼 파라미터 튜닝",
+      "DL 학습으로 최종 모델 생성(AWS Sagemaker)",
+      "FastAPI로 백엔드 구성",
+      "Next.js 기반으로 프론트엔드 구성",
+      "Docker container로 AWS 서버에 최종 배포",
+      "AWS CodeCommit, Pipeline, CodeBuild 를 통한 완전 자동화(신규 악성코드 자동 학습 파이프라인)"
     ],
   },
   {
@@ -186,6 +163,19 @@ export const projects = [
       "회원가입, 로그인/아웃(Session 관리), 자전거 대여/반납, 관리자 모드 등 핵심 비즈니스 로직을 객체 지향적으로 구현",
       "헤더(.h)와 소스(.cpp) 파일의 명확한 분할 및 모듈화를 통해 컴파일 의존성을 최소화하고 코드의 가독성 및 재사용성 증대",
       "File I/O(input/output.txt)를 활용한 데이터 영속성 처리를 구현하여, 프로그램 종료 후에도 회원 및 자전거 데이터가 유지되도록 설계"
+    ],
+  },
+  {
+    title: "Baekjoon Algorithm Prolem set",
+    date: "2024.02 ~ 2025.12 (1명)",
+    skills: ["C++", "Python"],
+    github: "https://github.com/tyroneryu/Algorithm_ps",
+    website: "https://solved.ac/profile/tyroneryu",
+    about: "백준 웹사이트에서 알고리즘 문제 풀이",
+    contents: [
+      "BaekjoonHub라는 Extension을 이용해 풀이했던 모든 알고리즘 문제와 해답 Github에 저장",
+      "현재 풀이한 문제 수: 199",
+      "Tier: Gold IV"
     ],
   },
 ];
