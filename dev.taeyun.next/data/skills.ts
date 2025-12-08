@@ -75,7 +75,7 @@ export const projects = [
     title: "taeyun-ryu.com",
     date: "2025.07 ~ 2025.11 (1명)",
     skills: ["React", "Next.js", "Typescript", "PostCSS"],
-    github: "https://github.com/tyorneryu/portfolio_dev.taeyun",
+    github: "https://github.com/tyroneryu/portfolio_dev.taeyun",
     website: "https://taeyunryu.vercel.app",
     about:
         "개인 포트폴리오 웹사이트 제작",
