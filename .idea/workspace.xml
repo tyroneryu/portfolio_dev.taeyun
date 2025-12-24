@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3e6b6b0-67ad-4586-8745-d3b4121a60fd" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../gitkubeops/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.taeyun.next/components/Intro/Information.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/components/Intro/Information.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/malware-analysis-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/malware-analysis-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/workspace.xml" afterDir="false" />
@@ -721,7 +719,7 @@
       <workItem from="1764397464211" duration="24139000" />
       <workItem from="1764592875288" duration="3112000" />
       <workItem from="1764685495385" duration="20283000" />
-      <workItem from="1766460571112" duration="3153000" />
+      <workItem from="1766460571112" duration="3546000" />
     </task>
     <servers />
   </component>
