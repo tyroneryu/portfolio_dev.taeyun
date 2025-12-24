@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3e6b6b0-67ad-4586-8745-d3b4121a60fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../gitkubeops/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.taeyun.next/components/Character/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/components/Character/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.taeyun.next/components/Hero/TextAnimation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/components/Hero/TextAnimation.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev.taeyun.next/components/Intro/Information.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/components/Intro/Information.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.taeyun.next/data/skills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/data/skills.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.taeyun.next/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/pages/_document.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev.taeyun.next/styles/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dev.taeyun.next/styles/theme.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/malware-analysis-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/malware-analysis-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../malware-analysis-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malware-analysis-service/.idea/workspace.xml" afterDir="false" />
@@ -640,6 +636,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tyroneryu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tyroneryu/malware-analysis-service.git",
+    "accountId": "d4a0e527-9caf-4736-806a-8c60dbf42de2"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/dev.taeyun.next/package.json" />
   </component>
@@ -654,26 +666,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/taeyunryu/Documents/dev.taeyun&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/taeyunryu/Documents/dev.taeyun/dev.taeyun.next/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/taeyunryu/Documents/dev.taeyun",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/taeyunryu/Documents/dev.taeyun/dev.taeyun.next/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
       </set>
     </attachedChunks>
   </component>
@@ -708,6 +721,7 @@
       <workItem from="1764397464211" duration="24139000" />
       <workItem from="1764592875288" duration="3112000" />
       <workItem from="1764685495385" duration="20283000" />
+      <workItem from="1766460571112" duration="3153000" />
     </task>
     <servers />
   </component>

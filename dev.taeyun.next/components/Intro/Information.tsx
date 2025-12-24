@@ -206,6 +206,7 @@ const Container = styled.div<{ isHover: boolean }>`
 		  
 		  white-space: normal !important;
 		  word-break: break-all !important;
+
 		  height: auto;
 		  line-height: 1.4;
 	  }	
