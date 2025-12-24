@@ -30,7 +30,7 @@ const Intro = () => (
 				</div>
 			</TextBox>
 
-			<TextBox className="flex pc-only">
+			<TextBox className="flex mobile-only">
 				<div>
 					<Bold>FIELD</Bold> 부터 <Bold>CODE</Bold> 까지, 현장의 문제를 논리적인 코드로 해결하는
 					<Bold>주니어 백엔드 개발자</Bold> 입니다.
